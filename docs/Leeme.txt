@@ -1,0 +1,7 @@
+Para ejecutar al sistema ahora hay que ejecutar como procesos separados:
+
+- varys.py
+- verificador_inactividad.py
+- titulares_web.py -> titulares_enviar.py
+- news_web (subir.py)
+

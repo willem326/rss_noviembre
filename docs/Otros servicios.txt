@@ -1,0 +1,64 @@
+I
+
+Un informe de google trends que puede tener diferentes categorías y frecuencia de entrega.
+
+II 
+
+Dado que tu público objetivo se dedica a la información política, un servicio que envíe informes regulares con fechas clave y eventos de interés recurrentes sería muy útil para ayudarles a planificar y generar contenidos. Aquí tienes algunas ideas concretas para un servicio que cumpla con ese objetivo:
+1. Calendario de eventos políticos y sociales importantes
+
+    Descripción: Un informe mensual o bisemanal que incluya fechas importantes en el calendario político, como elecciones, sesiones parlamentarias, discursos presidenciales, y eventos internacionales relevantes (como reuniones de la ONU, cumbres del G20, etc.).
+    Beneficio para el cliente: Este tipo de servicio permite a los clientes planificar su cobertura mediática y estar preparados con antelación para analizar o informar sobre estos eventos.
+
+2. Acontecimientos históricos conmemorados
+
+    Descripción: Un listado de fechas históricas que son conmemoradas cada año, como el 11 de septiembre, el 1 de mayo (Día Internacional del Trabajo), el 8 de marzo (Día Internacional de la Mujer), entre otras.
+    Beneficio para el cliente: Proporcionar un recordatorio sobre estos eventos les permitirá desarrollar contenidos relacionados con anticipación y aprovechar la cobertura mediática relacionada con la historia.
+
+3. Feriados nacionales y días conmemorativos ("Días de...")
+
+    Descripción: Un informe que detalla los días feriados nacionales y las celebraciones anuales como "Día del Medio Ambiente", "Día de la Democracia", "Día de la Constitución", etc.
+    Beneficio para el cliente: Estos días son relevantes para políticos y creadores de contenido que quieran planear eventos o publicaciones relacionadas. Podrías automatizar estos informes con actualizaciones periódicas para que los clientes estén al tanto.
+
+4. Cambios de hora (Horarios de verano e invierno)
+
+    Descripción: Un sistema de alertas que informe a los clientes sobre cambios de hora (horario de verano/invierno) en distintas regiones del país o el mundo, lo cual puede ser importante para la planificación de eventos o coberturas internacionales.
+    Beneficio para el cliente: Conocer estos cambios con anticipación permite ajustar la programación de actividades o transmisiones en vivo.
+
+5. Análisis de tendencias políticas recurrentes
+
+    Descripción: Un informe bisemanal que resuma las tendencias políticas recurrentes del año, como cambios de gabinete, presentación de presupuestos nacionales, informes de gestión, y pronósticos de encuestas electorales.
+    Beneficio para el cliente: Les permite estar preparados para las fluctuaciones políticas y cubrir eventos que suelen ocurrir en momentos clave del año.
+
+6. Días internacionales designados por la ONU
+
+    Descripción: Un informe que recoja todos los días internacionales designados por la ONU, como el "Día Internacional de la Paz" o el "Día Mundial contra el Trabajo Infantil".
+    Beneficio para el cliente: Estos días suelen ser relevantes para políticos, ONGs, y organizaciones gubernamentales que quieren crear contenidos alineados con causas internacionales.
+
+7. Calendario de conferencias y eventos políticos globales
+
+    Descripción: Un servicio que recoja fechas y detalles sobre conferencias políticas importantes, cumbres internacionales, elecciones clave en otros países, y eventos de relevancia geopolítica.
+    Beneficio para el cliente: Permitiría a los clientes anticiparse a eventos que tienen impacto en la política nacional e internacional, ayudándolos a cubrir la información o a preparar análisis detallados.
+
+8. Calendario legislativo y periodos de receso
+
+    Descripción: Un informe que recoja los periodos de actividad y receso de los parlamentos, asambleas y congresos, además de las fechas de presentación de proyectos de ley o sesiones clave.
+    Beneficio para el cliente: Esto les permitiría planificar la cobertura mediática de los debates parlamentarios y anticipar temas que se discuten en los periodos legislativos activos.
+
+9. Calendario de efemérides locales o regionales
+
+    Descripción: Un informe sobre fechas clave de importancia a nivel local o regional, como celebraciones de aniversario de ciudades, estados o provincias, o eventos históricos significativos en esas zonas.
+    Beneficio para el cliente: Este tipo de servicio sería especialmente útil para medios locales o regionales que quieran aprovechar eventos cercanos para generar contenido o para políticos que trabajen a nivel regional.
+
+10. Informe de aniversarios políticos y discursos clave
+
+    Descripción: Un servicio que alerte sobre aniversarios de eventos o discursos políticos importantes en la historia reciente o pasada, como el aniversario de la caída del Muro de Berlín, el discurso de asunción de un presidente, entre otros.
+    Beneficio para el cliente: Poder anticiparse a estos aniversarios y generar contenido sobre ellos a tiempo, alineándose con las expectativas del público interesado en la política.
+
+Cómo Implementarlo:
+
+    Automatización de Calendarios: Con una base de datos que contenga estos eventos preprogramados, podrías automatizar la generación de informes y recordatorios que se envíen a los clientes en fechas específicas, con suficiente anticipación para la planificación.
+
+    Integración con Herramientas de Productividad: El informe podría no solo enviarse a Telegram, sino también integrarse con plataformas como Google Calendar, Outlook o Slack, permitiendo que los clientes agreguen automáticamente eventos importantes a sus calendarios personales.
+
+    Personalización por Región o Sector: Algunos clientes podrían estar más interesados en ciertos tipos de eventos (p.ej., eventos políticos locales vs. internacionales). Podrías ofrecer filtros para que el cliente elija qué tipo de eventos desea recibir en los informes.

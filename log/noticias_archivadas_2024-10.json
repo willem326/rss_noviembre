@@ -1,0 +1,314 @@
+[
+    {
+        "medio": "BioBioChile - Todas las noticias",
+        "titulo": "Diputado Rubén Oyarzo \"cuestiona\" votación del FA y PC tras aprobación de informe en Caso Convenio",
+        "contenido": "No description available",
+        "fecha_publicacion": "01 de October del 2024 - 13:50",
+        "enlace": "https://www.biobiochile.cl/noticias/nacional/chile/2024/10/01/diputado-ruben-oyarzo-cuestiona-votacion-del-fa-y-pc-tras-aprobacion-de-informe-en-caso-convenio.shtml",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "BioBioChile - Todas las noticias",
+        "titulo": "Hermosilla reconoció que Sichel nunca le hizo favores cuando estuvo en BancoEstado",
+        "contenido": "No description available",
+        "fecha_publicacion": "01 de October del 2024 - 11:31",
+        "enlace": "https://www.biobiochile.cl/noticias/nacional/chile/2024/10/01/hermosilla-reconocio-que-sichel-nunca-le-hizo-favores-cuando-estuvo-en-bancoestado-tras-conciliacion.shtml",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "Chilevisión - Sitemap Noticias",
+        "titulo": "Sichel no avanzará en querella contra Hermosilla: Abogado se habría retractado de sus dichos",
+        "contenido": "Sin contenido",
+        "fecha_publicacion": "01 de October del 2024 - 12:00",
+        "enlace": "https://www.chilevision.cl/noticias/nacional/sichel-no-avanzara-en-querella-contra-hermosilla-abogado-se-habria",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "La Cuarta - Sitemap Noticias",
+        "titulo": "Hermosilla aclaró relación con Sichel: nunca le hizo favores cuando estaba en BancoEstado",
+        "contenido": "Sin contenido",
+        "fecha_publicacion": "01 de October del 2024 - 13:33",
+        "enlace": "https://www.lacuarta.com/chile/noticia/hermosilla-aclaro-relacion-con-sichel-nunca-le-hizo-favores-cuando-estaba-en-bancoestado/3T6ZH3YCWFHTJIUUYDQWL64ICA/",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "El Desconcierto",
+        "titulo": "Con las elecciones en el horizonte y el desafío de posicionar al partido: Los primeros meses de Constanza Martínez al mando del FA",
+        "contenido": "<p>Cuatro meses han pasado desde que el Frente Amplio pasó a ser oficialmente un partido único. Y aunque en el plebiscito una mayoría aplastante optó por fusionar las tiendas convergencia Social y Revolución Democrática —y a las que se sumó Comunes y Plataforma Socialista—, ha representado todo un desafío aunar las bases del partido con más militantes en Chile y en el que figura el Presidente Gabriel Boric. Con ese desafío, y el de lograr buenos resultados en la elección de octubre, asumió Constanza Martínez, quien asegura: “Ha sido un tiempo muy vertiginoso, sin embargo, creemos que se ha confirmado que era mucho más lo que nos unía que lo que nos separaba, y en eso hemos ido construyendo una unidad que a mi juicio va muy bien encaminada”.</p>",
+        "fecha_publicacion": "01 de October del 2024 - 10:00",
+        "enlace": "https://eldesconcierto.cl/2024/10/01/con-las-elecciones-en-el-horizonte-y-el-desafio-de-posicionar-al-partido-los-primeros-meses-de-constanza-martinez-al-mando-del-fa",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "BioBioChile - Todas las noticias",
+        "titulo": "Diputado Rubén Oyarzo \"cuestiona\" votación del FA y PC tras aprobación de informe en Caso Convenio",
+        "contenido": "No description available",
+        "fecha_publicacion": "01 de October del 2024 - 13:50",
+        "enlace": "https://www.biobiochile.cl/noticias/nacional/chile/2024/10/01/diputado-ruben-oyarzo-cuestiona-votacion-del-fa-y-pc-tras-aprobacion-de-informe-en-caso-convenio.shtml",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "BioBioChile - Todas las noticias",
+        "titulo": "Hermosilla reconoció que Sichel nunca le hizo favores cuando estuvo en BancoEstado",
+        "contenido": "No description available",
+        "fecha_publicacion": "01 de October del 2024 - 11:31",
+        "enlace": "https://www.biobiochile.cl/noticias/nacional/chile/2024/10/01/hermosilla-reconocio-que-sichel-nunca-le-hizo-favores-cuando-estuvo-en-bancoestado-tras-conciliacion.shtml",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "Chilevisión - Sitemap Noticias",
+        "titulo": "Sichel no avanzará en querella contra Hermosilla: Abogado se habría retractado de sus dichos",
+        "contenido": "Sin contenido",
+        "fecha_publicacion": "01 de October del 2024 - 12:00",
+        "enlace": "https://www.chilevision.cl/noticias/nacional/sichel-no-avanzara-en-querella-contra-hermosilla-abogado-se-habria",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "La Cuarta - Sitemap Noticias",
+        "titulo": "Hermosilla aclaró relación con Sichel: nunca le hizo favores cuando estaba en BancoEstado",
+        "contenido": "Sin contenido",
+        "fecha_publicacion": "01 de October del 2024 - 13:33",
+        "enlace": "https://www.lacuarta.com/chile/noticia/hermosilla-aclaro-relacion-con-sichel-nunca-le-hizo-favores-cuando-estaba-en-bancoestado/3T6ZH3YCWFHTJIUUYDQWL64ICA/",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "El Desconcierto",
+        "titulo": "Con las elecciones en el horizonte y el desafío de posicionar al partido: Los primeros meses de Constanza Martínez al mando del FA",
+        "contenido": "<p>Cuatro meses han pasado desde que el Frente Amplio pasó a ser oficialmente un partido único. Y aunque en el plebiscito una mayoría aplastante optó por fusionar las tiendas convergencia Social y Revolución Democrática —y a las que se sumó Comunes y Plataforma Socialista—, ha representado todo un desafío aunar las bases del partido con más militantes en Chile y en el que figura el Presidente Gabriel Boric. Con ese desafío, y el de lograr buenos resultados en la elección de octubre, asumió Constanza Martínez, quien asegura: “Ha sido un tiempo muy vertiginoso, sin embargo, creemos que se ha confirmado que era mucho más lo que nos unía que lo que nos separaba, y en eso hemos ido construyendo una unidad que a mi juicio va muy bien encaminada”.</p>",
+        "fecha_publicacion": "01 de October del 2024 - 10:00",
+        "enlace": "https://eldesconcierto.cl/2024/10/01/con-las-elecciones-en-el-horizonte-y-el-desafio-de-posicionar-al-partido-los-primeros-meses-de-constanza-martinez-al-mando-del-fa",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "BioBioChile - Todas las noticias",
+        "titulo": "Diputado Rubén Oyarzo \"cuestiona\" votación del FA y PC tras aprobación de informe en Caso Convenio",
+        "contenido": "No description available",
+        "fecha_publicacion": "01 de October del 2024 - 13:50",
+        "enlace": "https://www.biobiochile.cl/noticias/nacional/chile/2024/10/01/diputado-ruben-oyarzo-cuestiona-votacion-del-fa-y-pc-tras-aprobacion-de-informe-en-caso-convenio.shtml",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "La Cuarta - Sitemap Noticias",
+        "titulo": "Hermosilla aclaró relación con Sichel: nunca le hizo favores cuando estaba en BancoEstado",
+        "contenido": "Sin contenido",
+        "fecha_publicacion": "01 de October del 2024 - 13:33",
+        "enlace": "https://www.lacuarta.com/chile/noticia/hermosilla-aclaro-relacion-con-sichel-nunca-le-hizo-favores-cuando-estaba-en-bancoestado/3T6ZH3YCWFHTJIUUYDQWL64ICA/",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "BioBioChile - Todas las noticias",
+        "titulo": "Municipalidad de Ñuñoa oficiará al Min. de Justicia por centro de reinserción instalado sin aviso",
+        "contenido": "No description available",
+        "fecha_publicacion": "02 de October del 2024 - 00:03",
+        "enlace": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2024/10/02/municipalidad-de-nunoa-oficiara-al-min-de-justicia-por-centro-de-reinsercion-instalado-sin-aviso.shtml",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "CNN Chile - Sitemap Noticias",
+        "titulo": "Municipalidad de Ñuñoa oficiará al Ministerio de Justicia por instalación de centro de reinserción social sin aviso",
+        "contenido": "Sin contenido",
+        "fecha_publicacion": "02 de October del 2024 - 07:28",
+        "enlace": "https://www.cnnchile.com/pais/municipalidad-nunoa-oficiara-ministerio-justicia-instalacion-centro-reinsercion-social-sin-aviso_20241002/",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "Emol - Todas las noticias",
+        "titulo": "CEP: Desaprobación de Boric baja a 54% y alcalde Vodanovic (FA) arremete entre los mejores evaluados",
+        "contenido": "No description available",
+        "fecha_publicacion": "02 de October del 2024 - 13:41",
+        "enlace": "https://www.emol.com/noticias/Nacional/2024/10/02/1144302/encuesta-cep-carrera-presidencial.html",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "Diario Financiero Online",
+        "titulo": "Sebastián Sichel, independiente por Chile Vamos: “Desde Ñuñoa queremos impulsar la discusión nacional (…)sobre el pago justo de las contribuciones”",
+        "contenido": "“Urge sacar a los operadores políticos y transformar la municipalidad en un área de servicios”. “Queremos que Ñuñoa sea la nueva capital de la educación pública”.",
+        "fecha_publicacion": "02 de October del 2024 - 04:00",
+        "enlace": "http://www.df.cl/economia-y-politica/pais/sebastian-sichel-independiente-por-chile-vamos-desde-nunoa-queremos",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "Diario Financiero Online",
+        "titulo": "Emilia Ríos, alcaldesa de Ñuñoa: “Hemos ordenado la casa y las cuentas (…) el desafío es continuar mejorando la recaudación”",
+        "contenido": "“Nuestra gestión se ha propuesto poner el municipio al día, para construir las obras y ofrecer servicios que garanticen calidad de vida para todos los vecinos”. “Para las personas mayores, instalaremos el primer Centro Comunitario de Cuidados que también articule una red de personas cuidadoras”.",
+        "fecha_publicacion": "02 de October del 2024 - 04:00",
+        "enlace": "http://www.df.cl/economia-y-politica/pais/emilia-rios-alcaldesa-de-nunoa-hemos-ordenado-la-casa-y-las-cuentas",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "BioBioChile - Todas las noticias",
+        "titulo": "Diputado Rubén Oyarzo \"cuestiona\" votación del FA y PC tras aprobación de informe en Caso Convenio",
+        "contenido": "No description available",
+        "fecha_publicacion": "01 de October del 2024 - 13:50",
+        "enlace": "https://www.biobiochile.cl/noticias/nacional/chile/2024/10/01/diputado-ruben-oyarzo-cuestiona-votacion-del-fa-y-pc-tras-aprobacion-de-informe-en-caso-convenio.shtml",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "La Cuarta - Sitemap Noticias",
+        "titulo": "Hermosilla aclaró relación con Sichel: nunca le hizo favores cuando estaba en BancoEstado",
+        "contenido": "Sin contenido",
+        "fecha_publicacion": "01 de October del 2024 - 13:33",
+        "enlace": "https://www.lacuarta.com/chile/noticia/hermosilla-aclaro-relacion-con-sichel-nunca-le-hizo-favores-cuando-estaba-en-bancoestado/3T6ZH3YCWFHTJIUUYDQWL64ICA/",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "BioBioChile - Todas las noticias",
+        "titulo": "Municipalidad de Ñuñoa oficiará al Min. de Justicia por centro de reinserción instalado sin aviso",
+        "contenido": "No description available",
+        "fecha_publicacion": "02 de October del 2024 - 00:03",
+        "enlace": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2024/10/02/municipalidad-de-nunoa-oficiara-al-min-de-justicia-por-centro-de-reinsercion-instalado-sin-aviso.shtml",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "CNN Chile - Sitemap Noticias",
+        "titulo": "Municipalidad de Ñuñoa oficiará al Ministerio de Justicia por instalación de centro de reinserción social sin aviso",
+        "contenido": "Sin contenido",
+        "fecha_publicacion": "02 de October del 2024 - 07:28",
+        "enlace": "https://www.cnnchile.com/pais/municipalidad-nunoa-oficiara-ministerio-justicia-instalacion-centro-reinsercion-social-sin-aviso_20241002/",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "Emol - Todas las noticias",
+        "titulo": "CEP: Desaprobación de Boric baja a 54% y alcalde Vodanovic (FA) arremete entre los mejores evaluados",
+        "contenido": "No description available",
+        "fecha_publicacion": "02 de October del 2024 - 13:41",
+        "enlace": "https://www.emol.com/noticias/Nacional/2024/10/02/1144302/encuesta-cep-carrera-presidencial.html",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "Diario Financiero Online",
+        "titulo": "Sebastián Sichel, independiente por Chile Vamos: “Desde Ñuñoa queremos impulsar la discusión nacional (…)sobre el pago justo de las contribuciones”",
+        "contenido": "“Urge sacar a los operadores políticos y transformar la municipalidad en un área de servicios”. “Queremos que Ñuñoa sea la nueva capital de la educación pública”.",
+        "fecha_publicacion": "02 de October del 2024 - 04:00",
+        "enlace": "http://www.df.cl/economia-y-politica/pais/sebastian-sichel-independiente-por-chile-vamos-desde-nunoa-queremos",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    },
+    {
+        "medio": "Diario Financiero Online",
+        "titulo": "Emilia Ríos, alcaldesa de Ñuñoa: “Hemos ordenado la casa y las cuentas (…) el desafío es continuar mejorando la recaudación”",
+        "contenido": "“Nuestra gestión se ha propuesto poner el municipio al día, para construir las obras y ofrecer servicios que garanticen calidad de vida para todos los vecinos”. “Para las personas mayores, instalaremos el primer Centro Comunitario de Cuidados que también articule una red de personas cuidadoras”.",
+        "fecha_publicacion": "02 de October del 2024 - 04:00",
+        "enlace": "http://www.df.cl/economia-y-politica/pais/emilia-rios-alcaldesa-de-nunoa-hemos-ordenado-la-casa-y-las-cuentas",
+        "cliente_destino": [
+            {
+                "ID": "-4197811136",
+                "nombre": "Grupo de prueba"
+            }
+        ]
+    }
+]

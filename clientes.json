@@ -1,0 +1,16 @@
+{
+    "usuarios": [
+      {
+        "nombre": "Grupo de prueba",
+        "telegram_id": "-4197811136",
+        "terminos_busqueda": [" FA ", "Frente Amplio", "ñuñoa", "sichel", "emilia ríos"]
+      },
+      {
+        "nombre": "Willem",
+        "telegram_id": "186640618",
+        "terminos_busqueda": [" yein fonda "]
+      }
+    ]
+  }
+  
+  

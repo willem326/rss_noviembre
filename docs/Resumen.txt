@@ -1,0 +1,56 @@
+RESUMEN DEL PROYECTO
+
+    Obtención de noticias desde feeds RSS (rss3.py)
+        Feeds RSS: Se extraen noticias de diferentes medios de comunicación mediante feeds RSS predefinidos.
+        Parseo y formateo: Se procesan las noticias, convirtiéndolas en un formato JSON que incluye título, contenido, enlace y fecha de publicación.
+        Estructura de directorios: Las noticias se almacenan en una estructura de carpetas organizada por mes y día, lo que permite mantener un historial organizado de las noticias descargadas.
+        Identificación de noticias: Se genera un identificador único para cada noticia basado en su título y contenido para evitar duplicados en futuras ejecuciones.
+        Guardado de noticias nuevas: Solo las noticias que no han sido previamente guardadas se almacenan en archivos JSON.
+
+    Filtrado de noticias relevantes (buscador2.py)
+        Criterios de búsqueda: El sistema filtra las noticias según una lista de palabras clave predefinidas.
+        Rango de tiempo: Se buscan archivos de noticias generados en las últimas 24 horas, asegurando que se trabaje solo con contenido reciente.
+        Normalización de texto: Tanto el contenido como los títulos se normalizan para eliminar acentos y puntuación, mejorando la precisión en la búsqueda de palabras clave.
+        Selección de coincidencias: Si las noticias contienen las palabras clave definidas en su contenido o título, se seleccionan y almacenan en un nuevo archivo JSON para su posterior uso.
+
+    Envío de noticias a Telegram (varys.py)
+        Ejecución automática: El sistema ejecuta los scripts rss3.py y buscador2.py de manera secuencial para generar las noticias filtradas.
+        Detección de noticias no enviadas: Se utilizan identificadores únicos para determinar qué noticias aún no han sido enviadas a Telegram.
+        Envío a Telegram: Las noticias seleccionadas se formatean y envían a un grupo de Telegram utilizando la API de Telegram.
+        Mantenimiento del sistema: Después de enviar las noticias, los archivos JSON antiguos son eliminados para mantener el directorio de trabajo limpio.
+        Ejecución periódica: El sistema se ejecuta cada 5 minutos, asegurando un flujo continuo de noticias.
+
+    Scraping para medios sin RSS (Emol y otros)
+        Problema con algunos medios: Algunos medios de comunicación, como Emol, no ofrecen un feed RSS accesible fácilmente o tienen restricciones que complican la obtención de sus noticias.
+        Solución de scraping: Para estos medios, se ha desarrollado un proceso de scraping. En el caso de Emol, el sistema extrae las noticias directamente desde la estructura HTML de la página web, recuperando el título, contenido y enlace de las noticias.
+        Identificación de noticias: Similar al proceso de los feeds RSS, se genera un identificador único para evitar duplicados.
+        Integración futura: Aunque el scraping para Emol ha sido desarrollado, aún no está completamente integrado en el flujo principal del sistema, lo que requerirá ajustes para que se ejecute de manera conjunta con las fuentes RSS.
+
+    Verificación de inactividad y monitoreo del sistema (verificador_inactividad.py)
+        Comprobación periódica: El sistema verifica cada 6 horas que todos los medios de comunicación monitoreados han generado noticias recientes en las últimas 12 horas.
+        Alertas de inactividad: Si algún medio no ha generado noticias en más de 12 horas, se envía una alerta a un chat de Telegram indicando qué medios están inactivos.
+        Noticias más recientes: Se rastrean las noticias más recientes por medio y se informa si todas las fuentes están activas o si hay problemas de inactividad.
+        Ejecución continua: El script se ejecuta de manera continua, verificando la actividad de los medios y alertando automáticamente en caso de inactividad.
+
+Próximos pasos:
+
+    Incorporar más medios de comunicación:
+        Añadir más feeds RSS de medios de comunicación y desarrollar procesos de scraping personalizados para aquellos que no ofrezcan RSS o tengan restricciones similares a las de Emol.
+        Medios como CNN Chile, El Mostrador, y Ciper Chile son algunos ejemplos que requieren esta integración.
+
+        * Lo próximo es que Varys incorpore la ejecución de los script de scraping particulares como rss_emol.py y rss_biobio.py,
+        estos scripts ya funcionan bien pero hay que incorporarlos al proceso de Varys.
+
+    Crear un sistema de comprobación del funcionamiento:
+        
+        Este objetivo ya se logró por el momento con verificador_inactividad.py
+
+    Pruebas de funcionamiento continuas:
+        Ejecutar el sistema durante un tiempo para detectar posibles errores en tiempo real. Esto permitirá ajustar los tiempos de ejecución, resolver fallos en los feeds o en el scraping, y garantizar que las noticias lleguen de manera oportuna y sin duplicados.
+
+    Generar salidas personalizadas para distintos conjuntos de palabras clave:
+        Crear diferentes salidas JSON o feeds personalizados para grupos de palabras clave específicos. Esto permitiría que el sistema proporcione noticias en tiempo real para diferentes temas (por ejemplo, política, tecnología, deportes), ofreciendo un servicio más adaptado a las necesidades del usuario.
+        - Esto podría ser de una forma en la que exista un "panel de control" al que pueda agregar una nueva ID de usuario de telegram + términos de búsqueda y con eso se agregue un nuevo cliente automáticamente.
+        - A lo anterior habría que agregar una notificación de que se está enviando exitosamente el contenido.
+        - Ideal sería destruir Varys y separar la gestión de identificadores - de la funcion de ejecución de todos los scripts del proyecto - del envio del contenido por telegram.
+   

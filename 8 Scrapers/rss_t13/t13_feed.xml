@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>T13 - Lo Último</title>
+    <link>https://www.t13.cl/lo-ultimo</link>
+    <description>Feed RSS generado automáticamente desde la sección Lo Último de T13</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 02 Oct 2024 15:50:09 +0000</lastBuildDate>
+    <item>
+      <title>La Voz del Experto Startup: Novedades sobre la inteligencia artificial para el 2025 en emprendimientos innovadores</title>
+      <link>https://www.t13.cl/videos/emprendedores/la-voz-del-experto-startup-novedades-sobre-inteligencia-artificial-para-2025-em-2-10-2024</link>
+      <pubDate>Wed, 02 Oct 2024 11:40:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Embajador de Israel en Chile y conflicto con Irán: “Si no nos defendemos, no vamos a existir”</title>
+      <link>https://www.t13.cl/noticia/mundo/embajador-israel-chile-conflicto-iran-si-no-nos-defendemos-no-vamos-existir-2-10-2024</link>
+      <pubDate>Wed, 02 Oct 2024 11:44:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Admirable gesto con adulto mayor: jóvenes compraron todos los juguetes que vendía para que pudiera ir a casa</title>
+      <link>https://www.t13.cl/noticia/tendencias/admirable-gesto-adulto-mayor-jovenes-compraron-juguetes-colombia-2-10-2024</link>
+      <pubDate>Wed, 02 Oct 2024 11:49:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Startups: Usos y aplicación de la inteligencia artificial en las empresas para el 2025</title>
+      <link>https://www.t13.cl/videos/emprendedores/startups-usos-aplicacion-inteligencia-artificial-las-empresas-para-2025-2-10-2024</link>
+      <pubDate>Wed, 02 Oct 2024 11:53:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Matthei, Bachelet y Vodanovic son los personajes políticos mejor evaluados por la ciudadanía, según CEP</title>
+      <link>https://www.t13.cl/noticia/politica/matthei-bachelet-tomas-vodanovic-son-personajes-politicos-mejor-evaluados-2-10-2024</link>
+      <pubDate>Wed, 02 Oct 2024 12:04:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Networking: Rindegastos y Coddi nos visitan en el estudio</title>
+      <link>https://www.t13.cl/videos/emprendedores/networking-rindegastos-coddi-nos-visitan-estudio-2-10-2024</link>
+      <pubDate>Wed, 02 Oct 2024 12:06:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Shakira vuelve a Chile con un gigantesco show en el Estadio Nacional: ¿Cuándo venden las entradas?</title>
+      <link>https://www.t13.cl/noticia/espectaculos/shakira-vuelve-chile-estadio-nacional-entradas-2-10-2024</link>
+      <pubDate>Wed, 02 Oct 2024 12:06:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>La Veritá encanta con sus cannoli y pastas frescas</title>
+      <link>https://www.t13.cl/videos/emprendedores/la-verita-encanta-sus-cannoli-pastas-frescas-2-10-2024</link>
+      <pubDate>Wed, 02 Oct 2024 12:11:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>#CómoLoHizo: Delyrio Sabores, una pyme de comida chilena con "amor de mamá"</title>
+      <link>https://www.t13.cl/videos/emprendedores/comolohizo-delyrio-sabores-una-pyme-comida-chilena-amor-mama-2-10-2024</link>
+      <pubDate>Wed, 02 Oct 2024 12:21:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Encuesta CEP: Aprobación de Boric llega al 30% y su desaprobación baja de manera significativa a 54%</title>
+      <link>https://www.t13.cl/noticia/politica/encuesta-cep-rechazo-boric-baja-manera-significativa-su-aprobacion-llega-al-30-2-10-2024</link>
+      <pubDate>Wed, 02 Oct 2024 12:31:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Está más cerca de lo que crees: ¿Cuál es el mejor lugar para ver HOY el eclipse solar anular en Santiago?</title>
+      <link>https://www.t13.cl/noticia/tendencias/mejor-lugar-para-ver-hoy-eclipse-solar-anular-santiago-2-10-2024</link>
+      <pubDate>Wed, 02 Oct 2024 12:35:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Meses después, Millie Bobby Brown compartió las primeras fotos de su boda con Jake Bongiovi</title>
+      <link>https://www.t13.cl/noticia/espectaculos/millie-bobby-brown-compartio-las-primeras-fotos-su-boda-2-10-2024</link>
+      <pubDate>Wed, 02 Oct 2024 12:45:00 -0300</pubDate>
+    </item>
+  </channel>
+</rss>

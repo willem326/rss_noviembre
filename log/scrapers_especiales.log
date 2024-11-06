@@ -1,0 +1,1257 @@
+2024-10-02 12:50:09 - ************************************************************
+2024-10-02 12:50:09 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:44
+2024-10-02 12:50:09 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-10-02 12:50:09 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-02 12:50:09 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-10-02 12:50:09 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-10-02 12:50:09 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-10-02 12:50:07 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-10-02 12:50:07 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-10-02 12:50:07 - rss_cnn.py terminado con éxito en 0.0:12. Código de salida: 0
+2024-10-02 12:49:54 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-10-02 12:49:54 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-10-02 12:49:54 - rss_lacuarta.py terminado con éxito en 0.0:16. Código de salida: 0
+2024-10-02 12:49:37 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-10-02 12:49:37 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-10-02 12:49:37 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-02 12:49:37 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-10-02 12:49:37 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-10-02 12:49:37 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-02 12:49:36 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-10-02 12:49:36 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-10-02 12:49:36 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-10-02 12:49:36 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-10-02 12:49:36 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-10-02 12:49:36 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-10-02 12:49:25 - Iniciando rss_emol.py en el flujo Emol.
+2024-10-02 12:49:25 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-10-02 12:49:25 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-02 12:49:25 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-10-02 12:49:25 - Inicio de ejecución de scrapers especiales.
+2024-10-02 12:49:25 - ************************************************************
+2024-10-02 12:45:20 - ************************************************************
+2024-10-02 12:45:20 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:55
+2024-10-02 12:45:20 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-10-02 12:45:20 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-02 12:45:19 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-10-02 12:45:19 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-10-02 12:45:19 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-10-02 12:45:18 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-10-02 12:45:18 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-10-02 12:45:18 - rss_cnn.py terminado con éxito en 0.0:12. Código de salida: 0
+2024-10-02 12:45:05 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-10-02 12:45:05 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-10-02 12:45:05 - rss_lacuarta.py terminado con éxito en 0.0:26. Código de salida: 0
+2024-10-02 12:44:38 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-10-02 12:44:38 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-10-02 12:44:38 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-02 12:44:38 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-10-02 12:44:38 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-10-02 12:44:38 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-02 12:44:38 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-10-02 12:44:38 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-10-02 12:44:38 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-10-02 12:44:37 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-10-02 12:44:37 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-10-02 12:44:37 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-10-02 12:44:25 - Iniciando rss_emol.py en el flujo Emol.
+2024-10-02 12:44:25 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-10-02 12:44:25 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-02 12:44:24 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-10-02 12:44:24 - Inicio de ejecución de scrapers especiales.
+2024-10-02 12:44:24 - ************************************************************
+2024-10-01 22:30:16 - ************************************************************
+2024-10-01 22:30:16 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:58
+2024-10-01 22:30:16 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-10-01 22:30:16 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-01 22:30:15 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-10-01 22:30:15 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-10-01 22:30:15 - rss_ciudadano.py terminado con éxito en 0.0:02. Código de salida: 0
+2024-10-01 22:30:13 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-10-01 22:30:13 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-10-01 22:30:13 - rss_cnn.py terminado con éxito en 0.0:16. Código de salida: 0
+2024-10-01 22:29:56 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-10-01 22:29:56 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-10-01 22:29:56 - rss_lacuarta.py terminado con éxito en 0.0:25. Código de salida: 0
+2024-10-01 22:29:31 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-10-01 22:29:31 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-10-01 22:29:31 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-01 22:29:31 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-10-01 22:29:31 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-10-01 22:29:31 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-01 22:29:30 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-10-01 22:29:30 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-10-01 22:29:30 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-10-01 22:29:30 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-10-01 22:29:30 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-10-01 22:29:30 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-10-01 22:29:18 - Iniciando rss_emol.py en el flujo Emol.
+2024-10-01 22:29:18 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-10-01 22:29:18 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-01 22:29:17 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-10-01 22:29:17 - Inicio de ejecución de scrapers especiales.
+2024-10-01 22:29:17 - ************************************************************
+2024-10-01 22:26:08 - ************************************************************
+2024-10-01 22:26:08 - Finalización de ejecución de scrapers especiales. Tiempo total: 1.0:09
+2024-10-01 22:26:08 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-10-01 22:26:08 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-01 22:26:08 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-10-01 22:26:08 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-10-01 22:26:08 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-10-01 22:26:06 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-10-01 22:26:06 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-10-01 22:26:06 - rss_cnn.py terminado con éxito en 0.0:13. Código de salida: 0
+2024-10-01 22:25:53 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-10-01 22:25:53 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-10-01 22:25:53 - rss_lacuarta.py terminado con éxito en 0.0:40. Código de salida: 0
+2024-10-01 22:25:12 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-10-01 22:25:12 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-10-01 22:25:12 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-01 22:25:12 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-10-01 22:25:12 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-10-01 22:25:12 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-01 22:25:11 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-10-01 22:25:11 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-10-01 22:25:11 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-10-01 22:25:11 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-10-01 22:25:11 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-10-01 22:25:11 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-10-01 22:24:59 - Iniciando rss_emol.py en el flujo Emol.
+2024-10-01 22:24:59 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-10-01 22:24:59 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-01 22:24:59 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-10-01 22:24:59 - Inicio de ejecución de scrapers especiales.
+2024-10-01 22:24:59 - ************************************************************
+2024-10-01 21:54:35 - ************************************************************
+2024-10-01 21:54:35 - Finalización de ejecución de scrapers especiales. Tiempo total: 1.0:14
+2024-10-01 21:54:35 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-10-01 21:54:35 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-01 21:54:35 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-10-01 21:54:35 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-10-01 21:54:35 - rss_ciudadano.py terminado con éxito en 0.0:02. Código de salida: 0
+2024-10-01 21:54:33 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-10-01 21:54:33 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-10-01 21:54:33 - rss_cnn.py terminado con éxito en 0.0:15. Código de salida: 0
+2024-10-01 21:54:17 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-10-01 21:54:17 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-10-01 21:54:17 - rss_lacuarta.py terminado con éxito en 0.0:38. Código de salida: 0
+2024-10-01 21:53:38 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-10-01 21:53:38 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-10-01 21:53:38 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-01 21:53:37 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-10-01 21:53:37 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-10-01 21:53:37 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-10-01 21:53:37 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-10-01 21:53:37 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-10-01 21:53:37 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-10-01 21:53:37 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-10-01 21:53:37 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-10-01 21:53:37 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-10-01 21:53:23 - Iniciando rss_emol.py en el flujo Emol.
+2024-10-01 21:53:23 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-10-01 21:53:23 - rss_biobio.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-10-01 21:53:21 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-10-01 21:53:21 - Inicio de ejecución de scrapers especiales.
+2024-10-01 21:53:21 - ************************************************************
+2024-09-19 13:39:09 - ************************************************************
+2024-09-19 13:39:09 - Finalización de ejecución de scrapers especiales. Tiempo total: 1.0:12
+2024-09-19 13:39:09 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-09-19 13:39:09 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-19 13:39:08 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-09-19 13:39:08 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-19 13:39:08 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-19 13:39:07 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-19 13:39:07 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-19 13:39:07 - rss_cnn.py terminado con éxito en 0.0:13. Código de salida: 0
+2024-09-19 13:38:54 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-09-19 13:38:54 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-19 13:38:54 - rss_lacuarta.py terminado con éxito en 0.0:44. Código de salida: 0
+2024-09-19 13:38:09 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-19 13:38:09 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-19 13:38:09 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-19 13:38:09 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-09-19 13:38:09 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-19 13:38:09 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-19 13:38:08 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-19 13:38:08 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-19 13:38:08 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-19 13:38:08 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-19 13:38:08 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-19 13:38:08 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-19 13:37:57 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-19 13:37:57 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-19 13:37:57 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-19 13:37:56 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-09-19 13:37:56 - Inicio de ejecución de scrapers especiales.
+2024-09-19 13:37:56 - ************************************************************
+2024-09-19 01:15:16 - ************************************************************
+2024-09-19 01:15:16 - Finalización de ejecución de scrapers especiales. Tiempo total: 1.0:52
+2024-09-19 01:15:16 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-09-19 01:15:16 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-19 01:15:15 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-09-19 01:15:15 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-19 01:15:15 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-19 01:15:13 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-19 01:15:13 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-19 01:15:13 - rss_cnn.py terminado con éxito en 0.0:15. Código de salida: 0
+2024-09-19 01:14:58 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-09-19 01:14:58 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-19 01:14:58 - rss_lacuarta.py terminado con éxito en 0.0:49. Código de salida: 0
+2024-09-19 01:14:08 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-19 01:14:08 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-19 01:14:08 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-19 01:14:08 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-09-19 01:14:08 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-19 01:14:08 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-19 01:14:07 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-19 01:14:07 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-19 01:14:07 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-19 01:14:07 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-19 01:14:07 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-19 01:14:07 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-19 01:13:24 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-19 01:13:24 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-19 01:13:24 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-19 01:13:24 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-09-19 01:13:24 - Inicio de ejecución de scrapers especiales.
+2024-09-19 01:13:24 - ************************************************************
+2024-09-18 20:27:39 - ************************************************************
+2024-09-18 20:27:39 - Finalización de ejecución de scrapers especiales. Tiempo total: 1.0:08
+2024-09-18 20:27:39 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-09-18 20:27:39 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-18 20:27:38 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-09-18 20:27:38 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-18 20:27:38 - rss_ciudadano.py terminado con éxito en 0.0:03. Código de salida: 0
+2024-09-18 20:27:34 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-18 20:27:34 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-18 20:27:34 - rss_cnn.py terminado con éxito en 0.0:13. Código de salida: 0
+2024-09-18 20:27:21 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-09-18 20:27:21 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-18 20:27:21 - rss_lacuarta.py terminado con éxito en 0.0:37. Código de salida: 0
+2024-09-18 20:26:44 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-18 20:26:44 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-18 20:26:44 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-18 20:26:43 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-09-18 20:26:43 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-18 20:26:43 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-18 20:26:43 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-18 20:26:43 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-18 20:26:43 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-18 20:26:43 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-18 20:26:43 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-18 20:26:43 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-18 20:26:31 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-18 20:26:31 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-18 20:26:31 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-18 20:26:30 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-09-18 20:26:30 - Inicio de ejecución de scrapers especiales.
+2024-09-18 20:26:30 - ************************************************************
+2024-09-13 13:00:42 - ************************************************************
+2024-09-13 13:00:42 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:56
+2024-09-13 13:00:42 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-09-13 13:00:42 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-13 13:00:42 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-09-13 13:00:42 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-13 13:00:42 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-13 13:00:40 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-13 13:00:40 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-13 13:00:40 - rss_cnn.py terminado con éxito en 0.0:12. Código de salida: 0
+2024-09-13 13:00:27 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-09-13 13:00:27 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-13 13:00:27 - rss_lacuarta.py terminado con éxito en 0.0:28. Código de salida: 0
+2024-09-13 12:59:59 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-13 12:59:59 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-13 12:59:59 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-13 12:59:59 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-09-13 12:59:59 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-13 12:59:59 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-13 12:59:58 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-13 12:59:58 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-13 12:59:58 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-13 12:59:58 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-13 12:59:58 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-13 12:59:58 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-13 12:59:46 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-13 12:59:46 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-13 12:59:46 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-13 12:59:46 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-09-13 12:59:46 - Inicio de ejecución de scrapers especiales.
+2024-09-13 12:59:46 - ************************************************************
+2024-09-12 01:28:22 - ************************************************************
+2024-09-12 01:28:22 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:49
+2024-09-12 01:28:22 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-09-12 01:28:22 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-12 01:28:22 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-09-12 01:28:22 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-12 01:28:22 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-12 01:28:20 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-12 01:28:20 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-12 01:28:20 - rss_cnn.py terminado con éxito en 0.0:12. Código de salida: 0
+2024-09-12 01:28:08 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-09-12 01:28:08 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-12 01:28:08 - rss_lacuarta.py terminado con éxito en 0.0:22. Código de salida: 0
+2024-09-12 01:27:45 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-12 01:27:45 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-12 01:27:45 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-12 01:27:45 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-09-12 01:27:45 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-12 01:27:45 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-12 01:27:44 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-12 01:27:44 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-12 01:27:44 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-12 01:27:44 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-12 01:27:44 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-12 01:27:44 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-12 01:27:33 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-12 01:27:33 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-12 01:27:33 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-12 01:27:33 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-09-12 01:27:33 - Inicio de ejecución de scrapers especiales.
+2024-09-12 01:27:33 - ************************************************************
+2024-09-12 01:18:00 - ************************************************************
+2024-09-12 01:18:00 - Finalización de ejecución de scrapers especiales. Tiempo total: 2.0:05
+2024-09-12 01:18:00 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-09-12 01:18:00 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-12 01:18:00 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-09-12 01:18:00 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-12 01:18:00 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-12 01:17:58 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-12 01:17:58 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-12 01:17:58 - rss_cnn.py terminado con éxito en 0.0:13. Código de salida: 0
+2024-09-12 01:17:45 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-09-12 01:17:45 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-12 01:17:45 - rss_lacuarta.py terminado con éxito en 0.0:37. Código de salida: 0
+2024-09-12 01:17:08 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-12 01:17:08 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-12 01:17:08 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-12 01:17:08 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-09-12 01:17:08 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-12 01:17:08 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-12 01:17:07 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-12 01:17:07 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-12 01:17:07 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-12 01:17:07 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-12 01:17:07 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-12 01:17:07 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-12 01:15:56 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-12 01:15:56 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-12 01:15:56 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-12 01:15:55 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-09-12 01:15:55 - Inicio de ejecución de scrapers especiales.
+2024-09-12 01:15:55 - ************************************************************
+2024-09-11 21:54:08 - ************************************************************
+2024-09-11 21:54:08 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:58
+2024-09-11 21:54:08 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-09-11 21:54:08 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-11 21:54:07 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-09-11 21:54:07 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-11 21:54:07 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-11 21:54:06 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-11 21:54:06 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-11 21:54:06 - rss_cnn.py terminado con éxito en 0.0:12. Código de salida: 0
+2024-09-11 21:53:53 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-09-11 21:53:53 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-11 21:53:53 - rss_lacuarta.py terminado con éxito en 0.0:30. Código de salida: 0
+2024-09-11 21:53:22 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-11 21:53:22 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-11 21:53:22 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-11 21:53:22 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-09-11 21:53:22 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-11 21:53:22 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-11 21:53:21 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-11 21:53:21 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-11 21:53:21 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-11 21:53:21 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-11 21:53:21 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-11 21:53:21 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-11 21:53:10 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-11 21:53:10 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-11 21:53:10 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-11 21:53:09 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-09-11 21:53:09 - Inicio de ejecución de scrapers especiales.
+2024-09-11 21:53:09 - ************************************************************
+2024-09-11 15:14:53 - ************************************************************
+2024-09-11 15:14:53 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:53
+2024-09-11 15:14:53 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-09-11 15:14:53 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-11 15:14:52 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-09-11 15:14:52 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-11 15:14:52 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-11 15:14:51 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-11 15:14:51 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-11 15:14:51 - rss_cnn.py terminado con éxito en 0.0:12. Código de salida: 0
+2024-09-11 15:14:38 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-09-11 15:14:38 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-11 15:14:38 - rss_lacuarta.py terminado con éxito en 0.0:23. Código de salida: 0
+2024-09-11 15:14:14 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-11 15:14:14 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-11 15:14:14 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-11 15:14:13 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-09-11 15:14:13 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-11 15:14:13 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-11 15:14:13 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-11 15:14:13 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-11 15:14:13 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-11 15:14:13 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-11 15:14:13 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-11 15:14:13 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-11 15:14:00 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-11 15:14:00 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-11 15:14:00 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-11 15:14:00 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-09-11 15:14:00 - Inicio de ejecución de scrapers especiales.
+2024-09-11 15:14:00 - ************************************************************
+2024-09-11 14:18:35 - ************************************************************
+2024-09-11 14:18:35 - Finalización de ejecución de scrapers especiales. Tiempo total: 1.0:03
+2024-09-11 14:18:35 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-09-11 14:18:35 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-11 14:18:35 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-09-11 14:18:35 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-11 14:18:35 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-11 14:18:33 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-11 14:18:33 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-11 14:18:33 - rss_cnn.py terminado con éxito en 0.0:13. Código de salida: 0
+2024-09-11 14:18:20 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-09-11 14:18:20 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-11 14:18:20 - rss_lacuarta.py terminado con éxito en 0.0:31. Código de salida: 0
+2024-09-11 14:17:48 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-11 14:17:48 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-11 14:17:48 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-11 14:17:48 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-09-11 14:17:48 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-11 14:17:48 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-11 14:17:47 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-11 14:17:47 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-11 14:17:47 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-11 14:17:47 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-11 14:17:47 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-11 14:17:47 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-11 14:17:33 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-11 14:17:33 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-11 14:17:33 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-11 14:17:32 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-09-11 14:17:32 - Inicio de ejecución de scrapers especiales.
+2024-09-11 14:17:32 - ************************************************************
+2024-09-10 13:56:21 - ************************************************************
+2024-09-10 13:56:21 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:55
+2024-09-10 13:56:21 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-09-10 13:56:21 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 13:56:20 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-09-10 13:56:20 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-10 13:56:20 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-10 13:56:19 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-10 13:56:19 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-10 13:56:19 - rss_cnn.py terminado con éxito en 0.0:13. Código de salida: 0
+2024-09-10 13:56:05 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-09-10 13:56:05 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-10 13:56:05 - rss_lacuarta.py terminado con éxito en 0.0:27. Código de salida: 0
+2024-09-10 13:55:38 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-10 13:55:38 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-10 13:55:38 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 13:55:38 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-09-10 13:55:38 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-10 13:55:38 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 13:55:37 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-10 13:55:37 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 13:55:37 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-10 13:55:37 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-10 13:55:37 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 13:55:37 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-10 13:55:26 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-10 13:55:26 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-10 13:55:26 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 13:55:25 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-09-10 13:55:25 - Inicio de ejecución de scrapers especiales.
+2024-09-10 13:55:25 - ************************************************************
+2024-09-10 12:54:20 - ************************************************************
+2024-09-10 12:54:20 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:50
+2024-09-10 12:54:20 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-09-10 12:54:20 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 12:54:20 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-09-10 12:54:20 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-10 12:54:20 - rss_ciudadano.py terminado con éxito en 0.0:03. Código de salida: 0
+2024-09-10 12:54:16 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-10 12:54:16 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-10 12:54:16 - rss_cnn.py terminado con éxito en 0.0:12. Código de salida: 0
+2024-09-10 12:54:03 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-09-10 12:54:03 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-10 12:54:03 - rss_lacuarta.py terminado con éxito en 0.0:21. Código de salida: 0
+2024-09-10 12:53:42 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-10 12:53:42 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-10 12:53:42 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 12:53:41 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-09-10 12:53:41 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-10 12:53:41 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 12:53:41 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-10 12:53:41 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 12:53:41 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-10 12:53:41 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-10 12:53:41 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 12:53:41 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-10 12:53:30 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-10 12:53:30 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-10 12:53:30 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 12:53:30 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-09-10 12:53:30 - Inicio de ejecución de scrapers especiales.
+2024-09-10 12:53:30 - ************************************************************
+2024-09-10 12:43:48 - ************************************************************
+2024-09-10 12:43:48 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:58
+2024-09-10 12:43:48 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\8 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-09-10 12:43:48 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 12:43:48 - Iniciando rss_t13.py desde ./8 scrapers/rss_t13\rss_t13.py
+2024-09-10 12:43:48 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-10 12:43:48 - rss_ciudadano.py terminado con éxito en 0.0:03. Código de salida: 0
+2024-09-10 12:43:44 - Iniciando rss_ciudadano.py desde ./8 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-10 12:43:44 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-10 12:43:44 - rss_cnn.py terminado con éxito en 0.0:12. Código de salida: 0
+2024-09-10 12:43:31 - Iniciando rss_cnn.py desde ./8 scrapers/rss_cnn\rss_cnn.py
+2024-09-10 12:43:31 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-10 12:43:31 - rss_lacuarta.py terminado con éxito en 0.0:28. Código de salida: 0
+2024-09-10 12:43:02 - Iniciando rss_lacuarta.py desde ./8 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-10 12:43:02 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-10 12:43:02 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 12:43:02 - Iniciando rss_chv.py desde ./8 scrapers/rss_chv\rss_chv.py
+2024-09-10 12:43:02 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-10 12:43:02 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 12:43:01 - Iniciando rss_mostrador.py desde ./8 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-10 12:43:01 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 12:43:01 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-10 12:43:01 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-10 12:43:01 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 12:43:01 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-10 12:42:51 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-10 12:42:51 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\8 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-10 12:42:51 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 12:42:50 - Iniciando rss_biobio.py desde ./8 scrapers/rss_biobio\rss_biobio.py
+2024-09-10 12:42:50 - Inicio de ejecución de scrapers especiales.
+2024-09-10 12:42:50 - ************************************************************
+2024-09-10 06:38:56 - ************************************************************
+2024-09-10 06:38:56 - Finalización de ejecución de scrapers especiales. Tiempo total: 1.0:27
+2024-09-10 06:38:56 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\7 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-09-10 06:38:56 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 06:38:55 - Iniciando rss_t13.py desde ./7 scrapers/rss_t13\rss_t13.py
+2024-09-10 06:38:55 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-10 06:38:55 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-10 06:38:53 - Iniciando rss_ciudadano.py desde ./7 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-10 06:38:53 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-10 06:38:53 - rss_cnn.py terminado con éxito en 0.0:12. Código de salida: 0
+2024-09-10 06:38:41 - Iniciando rss_cnn.py desde ./7 scrapers/rss_cnn\rss_cnn.py
+2024-09-10 06:38:41 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-10 06:38:41 - rss_lacuarta.py terminado con éxito en 0.0:30. Código de salida: 0
+2024-09-10 06:38:10 - Iniciando rss_lacuarta.py desde ./7 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-10 06:38:10 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-10 06:38:10 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 06:38:09 - Iniciando rss_chv.py desde ./7 scrapers/rss_chv\rss_chv.py
+2024-09-10 06:38:09 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-10 06:38:09 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 06:38:09 - Iniciando rss_mostrador.py desde ./7 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-10 06:38:09 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 06:38:09 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-10 06:38:09 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-10 06:38:09 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 06:38:09 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-10 06:37:28 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-10 06:37:28 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-10 06:37:28 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 06:37:28 - Iniciando rss_biobio.py desde ./7 scrapers/rss_biobio\rss_biobio.py
+2024-09-10 06:37:28 - Inicio de ejecución de scrapers especiales.
+2024-09-10 06:37:28 - ************************************************************
+2024-09-10 06:29:27 - ************************************************************
+2024-09-10 06:29:27 - Finalización de ejecución de scrapers especiales. Tiempo total: 1.0:05
+2024-09-10 06:29:27 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\7 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-09-10 06:29:27 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 06:29:26 - Iniciando rss_t13.py desde ./7 scrapers/rss_t13\rss_t13.py
+2024-09-10 06:29:26 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-10 06:29:26 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-10 06:29:25 - Iniciando rss_ciudadano.py desde ./7 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-10 06:29:25 - Salida: Error al obtener el título de https://www.cnnchile.com/deportes/duelo-chile-bolivia-estadio-nacional-vendido-menos-mitad-capacidad_20240907/: HTTPSConnectionPool(host='www.cnnchile.com', port=443): Max retries exceeded with url: /deportes/duelo-chile-bolivia-estadio-nacional-vendido-menos-mitad-capacidad_20240907/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000241888D8E50>, 'Connection to www.cnnchile.com timed out. (connect timeout=None)'))
+
+Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-10 06:29:25 - rss_cnn.py terminado con éxito en 0.0:34. Código de salida: 0
+2024-09-10 06:28:51 - Iniciando rss_cnn.py desde ./7 scrapers/rss_cnn\rss_cnn.py
+2024-09-10 06:28:51 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-10 06:28:51 - rss_lacuarta.py terminado con éxito en 0.0:16. Código de salida: 0
+2024-09-10 06:28:34 - Iniciando rss_lacuarta.py desde ./7 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-10 06:28:34 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-10 06:28:34 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 06:28:34 - Iniciando rss_chv.py desde ./7 scrapers/rss_chv\rss_chv.py
+2024-09-10 06:28:34 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-10 06:28:34 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 06:28:33 - Iniciando rss_mostrador.py desde ./7 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-10 06:28:33 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 06:28:33 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-10 06:28:33 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-10 06:28:33 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 06:28:33 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-10 06:28:22 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-10 06:28:22 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-10 06:28:22 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 06:28:21 - Iniciando rss_biobio.py desde ./7 scrapers/rss_biobio\rss_biobio.py
+2024-09-10 06:28:21 - Inicio de ejecución de scrapers especiales.
+2024-09-10 06:28:21 - ************************************************************
+2024-09-10 06:24:44 - ************************************************************
+2024-09-10 06:24:44 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:43
+2024-09-10 06:24:44 - Salida: Feed generado y guardado en C:\Users\Willem\Desktop\rss - copia\7 Scrapers\rss_t13\t13_feed.xml
+
+
+2024-09-10 06:24:44 - rss_t13.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 06:24:43 - Iniciando rss_t13.py desde ./7 scrapers/rss_t13\rss_t13.py
+2024-09-10 06:24:43 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-10 06:24:43 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-10 06:24:42 - Iniciando rss_ciudadano.py desde ./7 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-10 06:24:42 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-10 06:24:42 - rss_cnn.py terminado con éxito en 0.0:13. Código de salida: 0
+2024-09-10 06:24:29 - Iniciando rss_cnn.py desde ./7 scrapers/rss_cnn\rss_cnn.py
+2024-09-10 06:24:29 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-10 06:24:29 - rss_lacuarta.py terminado con éxito en 0.0:15. Código de salida: 0
+2024-09-10 06:24:13 - Iniciando rss_lacuarta.py desde ./7 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-10 06:24:13 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-10 06:24:13 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 06:24:13 - Iniciando rss_chv.py desde ./7 scrapers/rss_chv\rss_chv.py
+2024-09-10 06:24:13 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-10 06:24:13 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 06:24:12 - Iniciando rss_mostrador.py desde ./7 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-10 06:24:12 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 06:24:12 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-10 06:24:12 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-10 06:24:12 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 06:24:12 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-10 06:24:01 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-10 06:24:01 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-10 06:24:01 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 06:24:01 - Iniciando rss_biobio.py desde ./7 scrapers/rss_biobio\rss_biobio.py
+2024-09-10 06:24:01 - Inicio de ejecución de scrapers especiales.
+2024-09-10 06:24:01 - ************************************************************
+2024-09-10 06:20:40 - ************************************************************
+2024-09-10 06:20:40 - Finalización de ejecución de scrapers especiales. Tiempo total: 1.0:39
+2024-09-10 06:20:40 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-10 06:20:40 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-10 06:20:39 - Iniciando rss_ciudadano.py desde ./7 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-10 06:20:39 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-10 06:20:39 - rss_cnn.py terminado con éxito en 0.0:12. Código de salida: 0
+2024-09-10 06:20:26 - Iniciando rss_cnn.py desde ./7 scrapers/rss_cnn\rss_cnn.py
+2024-09-10 06:20:26 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-10 06:20:26 - rss_lacuarta.py terminado con éxito en 0.0:42. Código de salida: 0
+2024-09-10 06:19:43 - Iniciando rss_lacuarta.py desde ./7 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-10 06:19:43 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-10 06:19:43 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 06:19:42 - Iniciando rss_chv.py desde ./7 scrapers/rss_chv\rss_chv.py
+2024-09-10 06:19:42 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-10 06:19:42 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 06:19:42 - Iniciando rss_mostrador.py desde ./7 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-10 06:19:42 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 06:19:42 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-10 06:19:42 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-10 06:19:42 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 06:19:42 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-10 06:19:01 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-10 06:19:01 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-10 06:19:01 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 06:19:00 - Iniciando rss_biobio.py desde ./7 scrapers/rss_biobio\rss_biobio.py
+2024-09-10 06:19:00 - Inicio de ejecución de scrapers especiales.
+2024-09-10 06:19:00 - ************************************************************
+2024-09-10 05:11:37 - ************************************************************
+2024-09-10 05:11:37 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:50
+2024-09-10 05:11:37 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-10 05:11:37 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-10 05:11:36 - Iniciando rss_ciudadano.py desde ./7 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-10 05:11:36 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-10 05:11:36 - rss_cnn.py terminado con éxito en 0.0:12. Código de salida: 0
+2024-09-10 05:11:23 - Iniciando rss_cnn.py desde ./7 scrapers/rss_cnn\rss_cnn.py
+2024-09-10 05:11:23 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-10 05:11:23 - rss_lacuarta.py terminado con éxito en 0.0:23. Código de salida: 0
+2024-09-10 05:10:59 - Iniciando rss_lacuarta.py desde ./7 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-10 05:10:59 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-10 05:10:59 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 05:10:58 - Iniciando rss_chv.py desde ./7 scrapers/rss_chv\rss_chv.py
+2024-09-10 05:10:58 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-10 05:10:58 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 05:10:58 - Iniciando rss_mostrador.py desde ./7 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-10 05:10:58 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 05:10:58 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-10 05:10:58 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-10 05:10:58 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 05:10:58 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-10 05:10:47 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-10 05:10:47 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-10 05:10:47 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 05:10:46 - Iniciando rss_biobio.py desde ./7 scrapers/rss_biobio\rss_biobio.py
+2024-09-10 05:10:46 - Inicio de ejecución de scrapers especiales.
+2024-09-10 05:10:46 - ************************************************************
+2024-09-10 05:05:07 - ************************************************************
+2024-09-10 05:05:07 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:46
+2024-09-10 05:05:07 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-10 05:05:07 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-10 05:05:06 - Iniciando rss_ciudadano.py desde ./7 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-10 05:05:06 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-10 05:05:06 - rss_cnn.py terminado con éxito en 0.0:12. Código de salida: 0
+2024-09-10 05:04:53 - Iniciando rss_cnn.py desde ./7 scrapers/rss_cnn\rss_cnn.py
+2024-09-10 05:04:53 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-10 05:04:53 - rss_lacuarta.py terminado con éxito en 0.0:19. Código de salida: 0
+2024-09-10 05:04:33 - Iniciando rss_lacuarta.py desde ./7 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-10 05:04:33 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-10 05:04:33 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 05:04:33 - Iniciando rss_chv.py desde ./7 scrapers/rss_chv\rss_chv.py
+2024-09-10 05:04:33 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-10 05:04:33 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 05:04:32 - Iniciando rss_mostrador.py desde ./7 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-10 05:04:32 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 05:04:32 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-10 05:04:32 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-10 05:04:32 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 05:04:32 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-10 05:04:21 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-10 05:04:21 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-10 05:04:21 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 05:04:21 - Iniciando rss_biobio.py desde ./7 scrapers/rss_biobio\rss_biobio.py
+2024-09-10 05:04:21 - Inicio de ejecución de scrapers especiales.
+2024-09-10 05:04:21 - ************************************************************
+2024-09-10 04:57:53 - ************************************************************
+2024-09-10 04:57:53 - Finalización de ejecución de scrapers especiales. Tiempo total: 1.0:05
+2024-09-10 04:57:53 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-10 04:57:53 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-10 04:57:51 - Iniciando rss_ciudadano.py desde ./7 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-10 04:57:51 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-10 04:57:51 - rss_cnn.py terminado con éxito en 0.0:12. Código de salida: 0
+2024-09-10 04:57:38 - Iniciando rss_cnn.py desde ./7 scrapers/rss_cnn\rss_cnn.py
+2024-09-10 04:57:38 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-10 04:57:38 - rss_lacuarta.py terminado con éxito en 0.0:39. Código de salida: 0
+2024-09-10 04:56:59 - Iniciando rss_lacuarta.py desde ./7 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-10 04:56:59 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-10 04:56:59 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 04:56:59 - Iniciando rss_chv.py desde ./7 scrapers/rss_chv\rss_chv.py
+2024-09-10 04:56:59 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-10 04:56:59 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 04:56:58 - Iniciando rss_mostrador.py desde ./7 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-10 04:56:58 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 04:56:58 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-10 04:56:58 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-10 04:56:58 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 04:56:58 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-10 04:56:48 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-10 04:56:48 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-10 04:56:48 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 04:56:47 - Iniciando rss_biobio.py desde ./7 scrapers/rss_biobio\rss_biobio.py
+2024-09-10 04:56:47 - Inicio de ejecución de scrapers especiales.
+2024-09-10 04:56:47 - ************************************************************
+2024-09-10 04:39:53 - ************************************************************
+2024-09-10 04:39:53 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:50
+2024-09-10 04:39:53 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-10 04:39:53 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-10 04:39:52 - Iniciando rss_ciudadano.py desde ./7 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-10 04:39:52 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-10 04:39:52 - rss_cnn.py terminado con éxito en 0.0:13. Código de salida: 0
+2024-09-10 04:39:39 - Iniciando rss_cnn.py desde ./7 scrapers/rss_cnn\rss_cnn.py
+2024-09-10 04:39:39 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-10 04:39:39 - rss_lacuarta.py terminado con éxito en 0.0:23. Código de salida: 0
+2024-09-10 04:39:15 - Iniciando rss_lacuarta.py desde ./7 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-10 04:39:15 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-10 04:39:15 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 04:39:14 - Iniciando rss_chv.py desde ./7 scrapers/rss_chv\rss_chv.py
+2024-09-10 04:39:14 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-10 04:39:14 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 04:39:14 - Iniciando rss_mostrador.py desde ./7 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-10 04:39:14 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 04:39:14 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-10 04:39:14 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-10 04:39:14 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 04:39:14 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-10 04:39:03 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-10 04:39:03 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-10 04:39:03 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 04:39:02 - Iniciando rss_biobio.py desde ./7 scrapers/rss_biobio\rss_biobio.py
+2024-09-10 04:39:02 - Inicio de ejecución de scrapers especiales.
+2024-09-10 04:39:02 - ************************************************************
+2024-09-10 04:15:10 - Inicio de ejecución de scrapers especiales.
+2024-09-10 04:15:10 - Iniciando rss_biobio.py desde ./7 scrapers/rss_biobio\rss_biobio.py
+2024-09-10 04:15:11 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 04:27:20 - Inicio de ejecución de scrapers especiales.
+2024-09-10 04:27:20 - Iniciando rss_biobio.py desde ./7 scrapers/rss_biobio\rss_biobio.py
+2024-09-10 04:27:20 - rss_biobio.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 04:27:20 - Salida: Archivo RSS C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_biobio\biobio_feed.xml generado con éxito.
+
+
+2024-09-10 04:27:20 - Iniciando rss_emol.py en el flujo Emol.
+2024-09-10 04:27:31 - rss_emol.py terminado con éxito. Código de salida: 0
+2024-09-10 04:27:31 - Salida: Feed RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 04:27:31 - Iniciando emol_duplicados.py en el flujo Emol.
+2024-09-10 04:27:32 - emol_duplicados.py terminado con éxito. Código de salida: 0
+2024-09-10 04:27:32 - Salida: Feed RSS sin duplicados generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_emol\emol_feed.xml
+
+
+2024-09-10 04:27:32 - Iniciando rss_mostrador.py desde ./7 scrapers/rss_mostrador\rss_mostrador.py
+2024-09-10 04:27:32 - rss_mostrador.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 04:27:32 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_mostrador\elmostrador_feed.xml
+
+
+2024-09-10 04:27:32 - El script rss_chilevision.py no se encontró en la ruta: ./7 scrapers/rss_chilevision\rss_chilevision.py
+2024-09-10 04:27:32 - Iniciando rss_lacuarta.py desde ./7 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-10 04:28:17 - rss_lacuarta.py terminado con éxito en 0.0:44. Código de salida: 0
+2024-09-10 04:28:17 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-10 04:28:17 - El script rss_cnnchile.py no se encontró en la ruta: ./7 scrapers/rss_cnnchile\rss_cnnchile.py
+2024-09-10 04:28:17 - El script rss_elciudadano.py no se encontró en la ruta: ./7 scrapers/rss_elciudadano\rss_elciudadano.py
+2024-09-10 04:28:17 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:57
+2024-09-10 04:30:20 - Inicio de ejecución de scrapers especiales.
+2024-09-10 04:30:20 - Iniciando rss_chv.py desde ./7 scrapers/rss_chv\rss_chv.py
+2024-09-10 04:30:20 - rss_chv.py terminado con éxito en 0.0:00. Código de salida: 0
+2024-09-10 04:30:20 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_chv\chilevision_feed.xml
+
+
+2024-09-10 04:30:20 - Iniciando rss_lacuarta.py desde ./7 scrapers/rss_lacuarta\rss_lacuarta.py
+2024-09-10 04:30:33 - rss_lacuarta.py terminado con éxito en 0.0:12. Código de salida: 0
+2024-09-10 04:30:33 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_lacuarta\lacuarta_feed.xml
+
+
+2024-09-10 04:30:33 - Iniciando rss_cnn.py desde ./7 scrapers/rss_cnn\rss_cnn.py
+2024-09-10 04:30:46 - rss_cnn.py terminado con éxito en 0.0:12. Código de salida: 0
+2024-09-10 04:30:46 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_cnn\cnn_feed.xml
+
+
+2024-09-10 04:30:46 - Iniciando rss_ciudadano.py desde ./7 scrapers/rss_ciudadano\rss_ciudadano.py
+2024-09-10 04:30:47 - rss_ciudadano.py terminado con éxito en 0.0:01. Código de salida: 0
+2024-09-10 04:30:47 - Salida: Archivo RSS generado y guardado como C:\Users\Willem\Desktop\rss - copia\7 scrapers\rss_ciudadano\elciudadano_chile_feed.xml
+
+
+2024-09-10 04:30:47 - Finalización de ejecución de scrapers especiales. Tiempo total: 0.0:27
